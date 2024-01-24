@@ -1,0 +1,14 @@
+
+body{
+    display: grid;
+    align-items: center;
+    font-size: 2rem;
+    height: 100vh;
+    width:100%;
+    text-align: center;
+    background: linear-gradient(180deg,orange,white,green)no-repeat center center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
+}
+
+
+  
